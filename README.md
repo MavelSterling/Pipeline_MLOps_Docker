@@ -20,7 +20,7 @@
 Desarrollar un sistema de MLOps completo para el diagnóstico médico que sea capaz de predecir, dados los síntomas de un paciente, si es posible que sufra de alguna enfermedad. El sistema debe funcionar tanto para enfermedades comunes (con abundantes datos) como para enfermedades huérfanas (con datos limitados).
 
 ---
-
+```
 ## 📋 Estructura del ProyectoPipeline-_MLOps_Docker/
 
 ├── README.md                           # Este archivo
@@ -38,8 +38,8 @@ Desarrollar un sistema de MLOps completo para el diagnóstico médico que sea ca
 ├── data/                            # Datos de ejemplo
 │   └── sample_symptoms.json         # Casos de prueba
 ├── Dockerfile                       # Dockerfile principal
-├── docker-compose.yml               # Configuración Docker Compose
-
+└── docker-compose.yml               # Configuración Docker Compose
+```
 ---
 
 ## 🚀 Inicio Rápido
