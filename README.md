@@ -112,6 +112,7 @@ El pipeline completo incluye las siguientes etapas:
 El servicio permite a los médicos ingresar síntomas del paciente y obtener un diagnóstico en tiempo real con los siguientes estados:
 
 - **NO ENFERMO**: Paciente sin indicios de enfermedad
+- **MOLESTIAS LEVES**: Paciente con síntomas o molestias muy leves
 - **ENFERMEDAD LEVE**: Síntomas leves que requieren observación
 - **ENFERMEDAD AGUDA**: Condición que requiere atención inmediata
 - **ENFERMEDAD CRÓNICA**: Condición de larga duración que requiere tratamiento continuo
