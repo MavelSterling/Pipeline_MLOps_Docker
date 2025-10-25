@@ -102,11 +102,8 @@ docker run -p 5000:5000 medical-diagnosis-service
 El pipeline completo incluye las siguientes etapas:
 
 1. **Diseño y Análisis**
-2. **Ingesta y Preparación de Datos**
-3. **Desarrollo y Entrenamiento de Modelos**
-4. **Validación y Testing**
-5. **Despliegue en Producción**
-6. **Monitoreo y Mantenimiento**
+2. **Desarrollo del modelo y manejo de datos**
+3. **Producción, monitoreo y mejora continua**
 
 ---
 
